@@ -25,7 +25,7 @@
 
 
 
-class ParserV2{
+class ParserV3{
 
     // static parseCSVToArray(csv){
     //     const cleanCSV = this.removeSpaces(this.changeCommaWithFullStop(csv))
@@ -165,4 +165,4 @@ class ParserV2{
     }
 }
 
-module.exports = ParserV2;
+module.exports = ParserV3;

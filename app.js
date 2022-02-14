@@ -3,7 +3,7 @@
 const fs = require('fs');
 // const { json } = require('stream/consumers');
 
-const ParserV2 = require('./parserV2.js');
+//const ParserV2 = require('./parserV2.js');
 const ParserV3 = require('./parserV3.js');
 
 const arg = process.argv.slice(2);
